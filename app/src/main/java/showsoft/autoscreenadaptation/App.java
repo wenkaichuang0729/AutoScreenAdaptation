@@ -3,7 +3,7 @@ package showsoft.autoscreenadaptation;
 import android.app.Application;
 
 /**
- * Created by Caodongyao on 2017/8/4.
+ * Created by wenkaichuang on 2017/8/4.
  */
 
 public class App extends Application{
