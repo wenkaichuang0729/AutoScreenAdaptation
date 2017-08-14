@@ -85,6 +85,10 @@
     }
 ```
 ##效果图
-</br> ![image](http://github.com/wenkaichuang0729/AutoScreenAdaptation/raw/master/images/480x800.png)
-![image](http://github.com/wenkaichuang0729/AutoScreenAdaptation/raw/master/images/720x1280.png)
+</br> 
+![图1](https://raw.githubusercontent.com/wenkaichuang0729/AutoScreenAdaptation/master/images/720x1280.png)
+</br>720x1280.png 
+
+![图2](https://raw.githubusercontent.com/wenkaichuang0729/AutoScreenAdaptation/master/images/480x800.png)
+</br>480x800.png 
 
