@@ -1,6 +1,7 @@
 # AutoScreenAdaptation
 </br>安卓屏幕适配  项目直接用dp和sp的可以不用改动   直接加入一句代码即可实现适配
 </br>还未确定会不会有兼容性问题和性能问题 需要时间测试
+</br>支持x  y适配
 </br>主要代码
 ```java
      /**
@@ -70,5 +71,17 @@
         public void onActivityDestroyed(Activity activity) {
         }
     };
+    
+    //使用:
+    //直接再Application 初始化即可
+    public class App extends Application{
+
+    @Override
+    public void onCreate() {
+        super.onCreate();
+        //ui给的设计稿的大小
+        new ScreenAdaptation(this, 720,1280).register();
+      }
+    }
 ```
     
