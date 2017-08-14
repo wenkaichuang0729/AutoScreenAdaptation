@@ -92,3 +92,4 @@
 ![图2](https://raw.githubusercontent.com/wenkaichuang0729/AutoScreenAdaptation/master/images/480x800.png)
 </br>480x800.png 
 
+该Demo学习过程改造而成
