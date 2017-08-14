@@ -80,6 +80,7 @@ public class ScreenAdaptation {
     /**
      * dp适配 getResources().getDisplayMetrics().density
      * sp适配 getResources().getDisplayMetrics().scaledDensity
+     * pt适配 getResources().getDisplayMetrics().xdpi
      * @param context
      * @param width ui设计图的宽度
      * @param height ui设计图的高度
