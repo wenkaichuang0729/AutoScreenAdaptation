@@ -94,4 +94,7 @@
 ![图2](https://raw.githubusercontent.com/wenkaichuang0729/AutoScreenAdaptation/master/images/480x800.png)
 </br>480x800.png 
 
+![图3](https://raw.githubusercontent.com/wenkaichuang0729/AutoScreenAdaptation/master/images/800x1280-216dip480x854-160dpi.png)
+</br>800x1280-216dip(左图)480x854-160dpi(右图).png
+
 该Demo学习过程改造而成
